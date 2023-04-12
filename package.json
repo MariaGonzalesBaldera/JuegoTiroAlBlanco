@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/MariaGonzalesBaldera/JuegoTiroAlBlanco/issues"
   },
-  "homepage": "https://github.com/MariaGonzalesBaldera/JuegoTiroAlBlanco#readme",
+  "homepage": "https://juego-tiro-al-blanco-two.vercel.app/",
   "dependencies": {
     "sweetalert2": "^11.7.3"
   }

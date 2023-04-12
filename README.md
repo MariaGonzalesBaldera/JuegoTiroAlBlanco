@@ -6,3 +6,6 @@ Es un juego donde se debe dar clic en el circulo más pequeño para poder acerta
  - Javascript
  - css
  - Y usamos canvas para la creación de figuras
+
+ ## URL de muestra
+https://juego-tiro-al-blanco-two.vercel.app/
