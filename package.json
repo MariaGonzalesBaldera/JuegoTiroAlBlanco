@@ -1,0 +1,22 @@
+{
+  "name": "tiro-al-blanco",
+  "version": "1.0.0",
+  "description": "darle al medio del circulo",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaGonzalesBaldera/JuegoTiroAlBlanco.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaGonzalesBaldera/JuegoTiroAlBlanco/issues"
+  },
+  "homepage": "https://github.com/MariaGonzalesBaldera/JuegoTiroAlBlanco#readme",
+  "dependencies": {
+    "sweetalert2": "^11.7.3"
+  }
+}
