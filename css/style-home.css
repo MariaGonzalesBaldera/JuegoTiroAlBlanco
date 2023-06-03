@@ -21,3 +21,11 @@ header{
     padding: 25px 15px;
     font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
 }
+
+@media screen and (max-width:480px){
+    .contenedor-canvas{
+        width: 20rem;
+        height: 25rem;
+    }
+
+}
